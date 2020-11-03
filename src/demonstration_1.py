@@ -21,4 +21,4 @@ class GraphNode:
 
 def color_graph(graph, colors):
     # Your code here
-
+    
